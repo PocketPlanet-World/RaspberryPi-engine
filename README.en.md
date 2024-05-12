@@ -16,14 +16,8 @@ And functions we are testing.
 
 [Link to DESCRIPTION]:https://img.shields.io/badge/Operation_instruction_>-3f3f3f?style=for-the-badge
 
-[DESCRIPTION Link]: /DESCRIPTION.md
+[DESCRIPTION Link]: /DESCRIPTION.en.md
 
 [![Link to DESCRIPTION]][DESCRIPTION Link]
 
 </div>
-
-<style>
-  #icon {
-    border-radius: 15px;
-  }
-</style>

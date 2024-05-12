@@ -21,9 +21,3 @@
 [![Link to DESCRIPTION]][DESCRIPTION Link]
 
 </div>
-
-<style>
-  #icon {
-    border-radius: 15px;
-  }
-</style># RaspberryPi-engine
